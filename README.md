@@ -35,4 +35,9 @@ A Python project using OpenCV 4.10.0 to detect and visualize SIFT keypoints, and
 - NumPy
 
 
+---
+
+🎓 **Coursework Information**  
+This project was developed as part of an assignment for the module **CSCI935 Computer Vision: Algorithms and Systems**  
+at the **School of Computing and Information Technology**, The University of Wollongong.
 
