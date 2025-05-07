@@ -5,7 +5,7 @@ A Python project using OpenCV 4.10.0 to detect and visualize SIFT keypoints, and
 
 ---
 
-## 📌 Features
+## 📌 Features.
 
 ### ✅ Task 1: Keypoint Detection & Visualization
 - Rescales a single image to VGA size (keeping aspect ratio)
