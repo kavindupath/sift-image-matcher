@@ -1,5 +1,4 @@
-# sift-image-matcher
-A Python project for detecting and comparing images using SIFT keypoints and Bag-of-Words model, developed for the CSCI935 Computer Vision course at UOW.
+
 # SIFT-ImageMatcher
 
 A Python project using OpenCV 4.10.0 to detect and visualize SIFT keypoints, and to compare multiple images using a Bag-of-Words model based on SIFT descriptors.
